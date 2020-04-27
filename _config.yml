@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Nauman Mustafa"
   avatar           : "https://avatars0.githubusercontent.com/u/11090613" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "On a path to solve intelligence - Machine Learning Engineer (by job) - Mad (AI) Scientist (by heart)"
+  bio              : "On a path to solve the intelligence - Machine Learning Engineer (by job) - Mad (AI) Scientist (by hobby)"
   location         : "UTC+5"
-  email            : "nauman.mustafa.x@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
