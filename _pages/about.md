@@ -1,7 +1,8 @@
 ---
 permalink: /about/
-title: "About Me"
+title: About Me
 toc: true
+published: true
 ---
 
-Hello World - The is another test
+WIP
